@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "Amazon": "myamazeclone",
+    "default": "myamazeclone"
+  },
+  "targets": {}
+}
